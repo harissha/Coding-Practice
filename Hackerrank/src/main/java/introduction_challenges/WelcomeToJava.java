@@ -38,7 +38,8 @@ public class WelcomeToJava {
         System.out.println("Hello, World.");
         System.out.println("Hello, Java.");
 
-        /*// using InputStreamReader
+        /*
+        // using InputStreamReader
         try {
             BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
             System.out.print("Input : ");
@@ -51,13 +52,15 @@ public class WelcomeToJava {
             ioe.printStackTrace();
         }*/
 
-        /*// using Scanner
-        Scanner scanner = new Scanner(System.in);
-        System.out.print("Input : ");
-        String statement = scanner.nextLine();
-        System.out.println(statement);
-        String statement1 = scanner.nextLine();
-        System.out.println(statement1);*/
+        /*
+        // using Scanner
+            Scanner scanner = new Scanner(System.in);
+            System.out.print("Input : ");
+            String statement = scanner.nextLine();
+            System.out.println(statement);
+            String statement1 = scanner.nextLine();
+            System.out.println(statement1);
+            */
 
     }
 
